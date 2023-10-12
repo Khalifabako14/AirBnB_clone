@@ -1,4 +1,4 @@
-irBnB Clone - The Console
+# AirBnB Clone - The Console
 
 
 Welcome to the AirBnB Clone repository! 
