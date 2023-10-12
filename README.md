@@ -1,7 +1,9 @@
-# AirBnB Clone - The Console
+irBnB Clone - The Console
 
 
-Welcome to the AirBnB Clone repository! This project is a full-stack web application inspired by Airbnb, a popular online marketplace for lodging and travel experiences. The purpose of this clone is to replicate some of Airbnb's core functionalities and features, providing users with a similar experience.
+Welcome to the AirBnB Clone repository! 
+
+This project is a full-stack web application inspired by Airbnb, a popular online marketplace for lodging and travel experiences. The purpose of this clone is to replicate some of Airbnb's core functionalities and features, providing users with a similar experience.
 
 Features:
 
@@ -12,8 +14,8 @@ Technologies Used:
 Frontend: HTML, CSS, JavaScript, React.js
 Backend: Node.js, Express.js, MongoDB
 Authentication: Passport.js
-Installation:
 
+Installation:
 Clone the repository: git clone https://github.com/Khalifabako14/AirBnB_clone.git
 Install dependencies: npm install
 Configure environment variables (if necessary).
